@@ -8,14 +8,14 @@
   "approval": false,
   "saveState": false,
   "BOTNAME": "nayan-bot",
-  "PREFIX": "/",
+  "PREFIX": "!",
   "OPERATOR": [
     "100014896964436",
     "100000959749712"
   ],
   "ADMINBOT": [
     "100000959749712",
-    ""
+    "61552422054139"
   ],
   "OWNER": ["100000959749712"], 
   "APPROVED": [],
