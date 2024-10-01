@@ -1,5 +1,5 @@
 /**
-* @author Mohammad Nayan
+* @author Ꮇʀᵀᴬᴿᴵᶠ~bot~Ұ₮࿐☂
 * @warn Do not edit code or edit credits
 */
 
